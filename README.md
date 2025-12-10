@@ -43,3 +43,15 @@ The SQL views were imported into Power BI to create a dynamic dashboard with the
 * `sql/`: Contains all SQL scripts for table creation, cleaning, and analysis views.
 * `data/`: Sample extract of the dataset (or link to source).
 * `screenshots/`: Images of the final Power BI dashboard and key SQL query outputs.
+
+* **Executive Summary:**
+<img width="537" height="317" alt="Executive Summary" src="https://github.com/user-attachments/assets/a9d511ab-0acb-4a17-97b3-a89f18878032" />
+
+* **Customer Insights:**
+* <img width="579" height="354" alt="Customer Analytics" src="https://github.com/user-attachments/assets/9bed92c6-8adb-4cc0-af66-c8f9353e911b" />
+
+* **Product Performance:**
+* <img width="493" height="355" alt="Product Insights" src="https://github.com/user-attachments/assets/3c1a8d8a-77df-493e-a187-62907b10d46d" />
+
+* **Geographic Analysis:**
+* <img width="495" height="350" alt="Country Insights" src="https://github.com/user-attachments/assets/573a967f-c82c-4cb2-8c8f-e009c2d82b61" />
